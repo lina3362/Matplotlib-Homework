@@ -36,3 +36,11 @@ Bar and Pie Charts
 2,create the pie chart
 
 1,Calculate the final tumor volume of each mouse across four of the treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin
+2,Start by getting the last (greatest) timepoint for each mouse
+3,Merge this group df with the original dataframe to get the tumor volume at the last timepoint
+4,Grouping by Grug Regimen and Mouse ID
+5,Create a list to use as labels and dataframe
+6,Generate a box plot of the final tumor volume of each mouse across four regimens of interest
+
+
+Line and Scatter Plots
