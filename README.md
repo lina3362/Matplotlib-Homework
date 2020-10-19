@@ -44,3 +44,14 @@ Bar and Pie Charts
 
 
 Line and Scatter Plots
+1,Generate a line plot of tumor volume vs. time point for a mouse treated with Capomulin
+2,set titles and print chart and set layout
+
+1,Generate a scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
+
+
+Correlation and Regression
+1,Calculate the correlation coefficient and linear regression model 
+2,for mouse weight and average tumor volume for the Capomulin regimen
+3,Create x and y values
+4,creating the linear regression
