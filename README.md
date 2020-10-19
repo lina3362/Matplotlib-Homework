@@ -48,6 +48,7 @@ Line and Scatter Plots
 2,set titles and print chart and set layout
 
 1,Generate a scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
+2,print chart and set layout
 
 
 Correlation and Regression
@@ -55,3 +56,6 @@ Correlation and Regression
 2,for mouse weight and average tumor volume for the Capomulin regimen
 3,Create x and y values
 4,creating the linear regression
+5,set up regression formula
+6,Set up line equation
+7,print chart and set layout
